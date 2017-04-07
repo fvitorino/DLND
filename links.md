@@ -33,8 +33,8 @@ Calculus cheatsheet: http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All
 Statistics cheatsheet: http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
 
 More Learning Resources: 
-https://people.ucsc.edu/~praman1/static/pub/math-for-ml.pdf
-http://www.vision.jhu.edu/tutorials/ICCV15-Tutorial-Math-Deep-Learning-Intro-Rene-Joan.pdf
-http://datascience.ibm.com/blog/the-mathematics-of-machine-learning/
+- https://people.ucsc.edu/~praman1/static/pub/math-for-ml.pdf
+- http://www.vision.jhu.edu/tutorials/ICCV15-Tutorial-Math-Deep-Learning-Intro-Rene-Joan.pdf
+- http://datascience.ibm.com/blog/the-mathematics-of-machine-learning/
 
 [How To Do Linear Regression Live Stream](https://www.youtube.com/watch?v=XdM6ER7zTLk)

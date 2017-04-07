@@ -14,6 +14,8 @@
 # Concepts
 
 https://en.wikipedia.org/wiki/Reinforcement_learning
+[An overview of gradient descent algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html#momentum)
+https://en.wikipedia.org/wiki/Perceptron
 
 ## Backpropagation
 

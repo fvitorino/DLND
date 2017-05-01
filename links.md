@@ -16,6 +16,7 @@
 https://en.wikipedia.org/wiki/Reinforcement_learning
 [An overview of gradient descent algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html#momentum)
 https://en.wikipedia.org/wiki/Perceptron
+https://en.wikipedia.org/wiki/Topological_sorting
 
 ## Backpropagation
 
@@ -23,6 +24,11 @@ https://en.wikipedia.org/wiki/Perceptron
 
 - Also from Andrej Karpathy, [a lecture from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 
+## Data Preparation
+
+- Loading and manipulating data with Pandas in our [Intro to Data Analysis course](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+- Cleaning data with Python in our [Data Wrangling course](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
+- Feature Scaling and Principle Component Analysis (PCA) in [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) featuring our own Sebastian Thrun.
 
 ## Math
 
@@ -40,3 +46,10 @@ More Learning Resources:
 - http://datascience.ibm.com/blog/the-mathematics-of-machine-learning/
 
 [How To Do Linear Regression Live Stream](https://www.youtube.com/watch?v=XdM6ER7zTLk)
+
+https://en.wikipedia.org/wiki/Sigmoid_function
+
+## Datasets
+
+
+THE MNIST DATABASE of handwritten digits - http://yann.lecun.com/exdb/mnist/

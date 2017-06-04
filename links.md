@@ -1,9 +1,28 @@
-# Books to read
+# Training - Books, Lectures, Tutorials, etc
 
 - [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew Trask. Use our exclusive discount code traskud17 for 40% off. This provides a very gentle introduction to Deep Learning and covers the intuition more than the theory.
 - [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen. This book is more rigorous than Grokking Deep Learning and includes a lot of fun, interactive visualizations to play with.
 - [The Deep Learning Textbook](http://www.deeplearningbook.org/) from Ian Goodfellow, Yoshua Bengio, and Aaron Courville. This online book has lot of material and is the most rigorous of the three books suggested.
-- Paper "Dropout: A Simple Way to Prevent Neural Networks from Overfitting" - https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+- [Andrej Karpathy's CS231n Stanford course on Convolutional Neural Networks](http://cs231n.github.io)
+
+## Papers
+- Reducing overfitting - "Dropout: A Simple Way to Prevent Neural Networks from Overfitting" - https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+
+## Videos
+- Andrej Karpathy, [a lecture on Backpropagation from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
+- [Visualizing and Understanding Deep Neural Networks by Matt Zeiler\(https://www.youtube.com/watch?v=ghEmQSxT6tw)
+
+## Training / Tutorials
+- Andrew Ng - https://www.coursera.org/learn/machine-learning
+- Machine Learning Tutorials - https://github.com/aymericdamien/Machine-Learning-Tutorials
+- TensorFlow Examples - https://github.com/aymericdamien/TensorFlow-Examples
+
+# Deep Learning Projects
+- https://github.com/aymericdamien/TopDeepLearning
+
+# People
+- Andrew Ng - http://www.andrewng.org/
+- 
 
 # Applying DL
 
@@ -13,16 +32,19 @@
 
 # Concepts
 
+ConvNet Max Pooling - https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
 https://en.wikipedia.org/wiki/Reinforcement_learning
 [An overview of gradient descent algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html#momentum)
 https://en.wikipedia.org/wiki/Perceptron
 https://en.wikipedia.org/wiki/Topological_sorting
 
 ## Backpropagation
-
 - From Andrej Karpathy: [Yes, you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9)
+- Andrej Karpathy, [a lecture on Backpropagation from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 
-- Also from Andrej Karpathy, [a lecture from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
+## Convolutional Neural Networks
+- Paper "Visualizing and Understanding Convolutional Networks" - http://www.matthewzeiler.com/pubs/arxive2013/eccv2014.pdf
+https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
 
 ## Data Preparation
 
@@ -50,6 +72,5 @@ More Learning Resources:
 https://en.wikipedia.org/wiki/Sigmoid_function
 
 ## Datasets
-
 
 THE MNIST DATABASE of handwritten digits - http://yann.lecun.com/exdb/mnist/

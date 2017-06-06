@@ -21,8 +21,7 @@
 - https://github.com/aymericdamien/TopDeepLearning
 
 # People
-- Andrew Ng - http://www.andrewng.org/
-- 
+- Andrew Ng - http://www.andrewng.org
 
 # Applying DL
 
@@ -32,19 +31,39 @@
 
 # Concepts
 
-ConvNet Max Pooling - https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
-https://en.wikipedia.org/wiki/Reinforcement_learning
-[An overview of gradient descent algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html#momentum)
-https://en.wikipedia.org/wiki/Perceptron
-https://en.wikipedia.org/wiki/Topological_sorting
+## CNN - Convolutional Neural Networks
+- Paper "Visualizing and Understanding Convolutional Networks" - http://www.matthewzeiler.com/pubs/arxive2013/eccv2014.pdf
+https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
+- ConvNet Max Pooling - https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
+- http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork/
+- https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
+- http://cs231n.github.io/convolutional-networks/
+- http://deeplearning.net/tutorial/lenet.html
+- https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+- http://neuralnetworksanddeeplearning.com/chap6.html
+- http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/
+- http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/
+- https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.l6i57z8f2
+
+## Weight Initialization
+- [Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)
+- [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/pdf/1502.01852v1.pdf)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v2.pdf)
+
+## Sentiment Analysis
+- http://deeplearning.net/tutorial/lstm.html
+- https://www.quora.com/How-is-deep-learning-used-in-sentiment-analysis
+- https://gab41.lab41.org/deep-learning-sentiment-one-character-at-a-t-i-m-e-6cd96e4f780d#.nme2qmtll
+- http://k8si.github.io/2016/01/28/lstm-networks-for-sentiment-analysis-on-tweets.html
+- https://www.kaggle.com/c/word2vec-nlp-tutorial
+- Lexical Based Approach (predicting using a prebuilt Lexicon)
+  - https://www.aclweb.org/anthology/J/J11/J11-2001.pdf
+  - http://ceur-ws.org/Vol-1314/paper-06.pdf
+
 
 ## Backpropagation
 - From Andrej Karpathy: [Yes, you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9)
 - Andrej Karpathy, [a lecture on Backpropagation from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
-
-## Convolutional Neural Networks
-- Paper "Visualizing and Understanding Convolutional Networks" - http://www.matthewzeiler.com/pubs/arxive2013/eccv2014.pdf
-https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
 
 ## Data Preparation
 
@@ -54,13 +73,10 @@ https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
 
 ## Math
 
-Matrix Multiplication - Dot product - https://en.wikipedia.org/wiki/Dot_product
-
-Linear Algebra cheatsheet: http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf
-
-Calculus cheatsheet: http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf
-
-Statistics cheatsheet: http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
+- Matrix Multiplication - Dot product - https://en.wikipedia.org/wiki/Dot_product
+- Linear Algebra cheatsheet: http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf
+- Calculus cheatsheet: http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf
+- Statistics cheatsheet: http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
 
 More Learning Resources: 
 - https://people.ucsc.edu/~praman1/static/pub/math-for-ml.pdf
@@ -69,8 +85,14 @@ More Learning Resources:
 
 [How To Do Linear Regression Live Stream](https://www.youtube.com/watch?v=XdM6ER7zTLk)
 
+## Other concepts
+[An overview of gradient descent algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html#momentum)
+https://en.wikipedia.org/wiki/Perceptron
+https://en.wikipedia.org/wiki/Topological_sorting
 https://en.wikipedia.org/wiki/Sigmoid_function
+https://en.wikipedia.org/wiki/Reinforcement_learning
 
-## Datasets
+
+# Datasets
 
 THE MNIST DATABASE of handwritten digits - http://yann.lecun.com/exdb/mnist/

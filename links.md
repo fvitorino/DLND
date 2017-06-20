@@ -18,7 +18,8 @@
 - TensorFlow Examples - https://github.com/aymericdamien/TensorFlow-Examples
 
 # Deep Learning Projects
-- https://github.com/aymericdamien/TopDeepLearning
+- A list of popular github projects related to deep learning - https://github.com/aymericdamien/TopDeepLearning
+- Image augmentation for machine learning experiments - https://github.com/aleju/imgaug
 
 # People
 - Andrew Ng - http://www.andrewng.org

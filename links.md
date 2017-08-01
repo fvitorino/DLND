@@ -3,13 +3,11 @@
 - [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew Trask. Use our exclusive discount code traskud17 for 40% off. This provides a very gentle introduction to Deep Learning and covers the intuition more than the theory.
 - [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen. This book is more rigorous than Grokking Deep Learning and includes a lot of fun, interactive visualizations to play with.
 - [The Deep Learning Textbook](http://www.deeplearningbook.org/) from Ian Goodfellow, Yoshua Bengio, and Aaron Courville. This online book has lot of material and is the most rigorous of the three books suggested.
-- [Andrej Karpathy's CS231n Stanford course on Convolutional Neural Networks](http://cs231n.github.io)
 
 ## Papers
 - Reducing overfitting - "Dropout: A Simple Way to Prevent Neural Networks from Overfitting" - https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 
 ## Videos
-- Andrej Karpathy, [a lecture on Backpropagation from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 - [Visualizing and Understanding Deep Neural Networks by Matt Zeiler\(https://www.youtube.com/watch?v=ghEmQSxT6tw)
 
 ## Training / Tutorials
@@ -33,6 +31,7 @@
 # Concepts
 
 ## CNN - Convolutional Neural Networks
+- [Andrej Karpathy's CS231n Stanford course on Convolutional Neural Networks](http://cs231n.github.io)
 - Paper "Visualizing and Understanding Convolutional Networks" - http://www.matthewzeiler.com/pubs/arxive2013/eccv2014.pdf
 https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
 - ConvNet Max Pooling - https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
@@ -45,6 +44,21 @@ https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
 - http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/
 - http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/
 - https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.l6i57z8f2
+
+## RNN - Recurrent Neural Networks
+- [Andrej Karpathy's lecture on RNNs and LSTMs from CS231n](https://www.youtube.com/watch?v=iX5V1WpxxkY)
+- [A great blog post by Christopher Olah on how LSTMs work](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Building an RNN from the ground up, this is a little more advanced, but has an implementation in TensorFlow](http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html)
+- http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- [https://github.com/karpathy/char-rnn](Implementation in Torch)
+- http://r2rt.com/recurrent-neural-networks-in-tensorflow-ii.html
+- https://github.com/sherjilozair/char-rnn-tensorflow
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
+- [A Beginner's Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
+- [TensorFlow's Recurrent Neural Network Tutorial](https://www.tensorflow.org/tutorials/recurrent)
+- [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+- [Demystifying LSTM neural networks](https://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
 
 ## Weight Initialization
 - [Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)

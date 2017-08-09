@@ -15,6 +15,11 @@
 - Machine Learning Tutorials - https://github.com/aymericdamien/Machine-Learning-Tutorials
 - TensorFlow Examples - https://github.com/aymericdamien/TensorFlow-Examples
 
+## Technologies
+
+- [TensorBoard overview video](https://youtu.be/eBbEDRsCmv4)
+- [TensorBoard tutorial](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
+
 # Deep Learning Projects
 - A list of popular github projects related to deep learning - https://github.com/aymericdamien/TopDeepLearning
 - Image augmentation for machine learning experiments - https://github.com/aleju/imgaug
@@ -131,6 +136,19 @@ If you want to learn more about hyperparameters, these are some great resources 
   - https://www.aclweb.org/anthology/J/J11/J11-2001.pdf
   - http://ceur-ws.org/Vol-1314/paper-06.pdf
 
+## How To Generate Art
+- https://harishnarayanan.org/writing/artistic-style-transfer/
+- https://ml4a.github.io/ml4a/style_transfer/
+- http://genekogan.com/works/style-transfer/
+- https://arxiv.org/abs/1508.06576
+- https://jvns.ca/blog/2017/02/12/neural-style/
+
+### Style transfer apps:
+- http://www.pikazoapp.com/
+- http://deepart.io/
+- https://artisto.my.com/
+- https://prisma-ai.com/
+
 
 ## Backpropagation
 - From Andrej Karpathy: [Yes, you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9)
@@ -162,7 +180,7 @@ https://en.wikipedia.org/wiki/Perceptron
 https://en.wikipedia.org/wiki/Topological_sorting
 https://en.wikipedia.org/wiki/Sigmoid_function
 https://en.wikipedia.org/wiki/Reinforcement_learning
-
+https://en.wikipedia.org/wiki/Word2vec
 
 # Datasets
 

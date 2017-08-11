@@ -65,6 +65,25 @@ https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
 - [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 - [Demystifying LSTM neural networks](https://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
 
+### How To Generate Music
+- https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714#.swstv6z61
+- http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html
+- https://magenta.tensorflow.org/2016/06/10/recurrent-neural-network-generation-tutorial/
+- http://deeplearning.net/tutorial/rnnrbm.html
+- https://maraoz.com/2016/02/02/abc-rnn/
+- http://www.cs.cmu.edu/~music//cmsip/slides/05-algo-comp.pdf
+- http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
+- https://www.reddit.com/r/algorithmicmusic/
+
+### How To Make A Text Summarizer
+- https://www.quora.com/Has-Deep-Learning-been-applied-to-automatic-text-summarization-successfully
+- https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html
+- https://en.wikipedia.org/wiki/Automatic_summarization
+- http://deeplearning.net/tutorial/rnnslu.html
+- http://deeplearning.net/tutorial/rnnslu.html
+- http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+
+
 ### LSTM Vs GRU
 - "These results clearly indicate the advantages of the gating units over the more traditional recurrent units. Convergence is often faster, and the final solutions tend to be better. However, our results are not conclusive in comparing the LSTM and the GRU, which suggests that the choice of the type of gated recurrent unit may depend heavily on the dataset and corresponding task."
 - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) by Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio
@@ -185,3 +204,9 @@ https://en.wikipedia.org/wiki/Word2vec
 # Datasets
 
 THE MNIST DATABASE of handwritten digits - http://yann.lecun.com/exdb/mnist/
+
+# Computer Science Fundamentals
+- Intro Data Structures (My Code School)
+- Intro to Algorithms (MIT Open Courseware)
+- Practice on www.hackerearth.com and www.hackerrank.com
+- Read "Programming Interviews Exposed" and then "Cracking the Coding Interview"
